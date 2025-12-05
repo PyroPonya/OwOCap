@@ -1,0 +1,15 @@
+{
+  "hotkeys": {
+    "screenshot": "ctrl+shift+a",
+    "speech_mic": "ctrl+shift+m",
+    "speech_app": "ctrl+shift+s"
+  },
+  "models": {
+    "vosk_model_path": "models/vosk-model-small-ru-0.22"
+  },
+  "audio": {
+    "sample_rate": 16000,
+    "channels": 1,
+    "device_index": null
+  }
+}
